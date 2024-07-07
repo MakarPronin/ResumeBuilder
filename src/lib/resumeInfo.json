@@ -1,0 +1,227 @@
+{
+    "ru": {
+        "parameters": {
+            "centralSpace": "75",
+            "borderPaddingVertical": "75",
+            "borderPaddingHorizontal": "75",
+            "spaceBetweenSections": "60",
+            "fontFamily": "Nunito",
+            "textLineMargin": "5",
+            "fontSize": "1.2"
+        },
+        "generalInfo": {
+            "name": "Макар Пронин",
+            "email": "makarpronin90@gmail.com",
+            "phone": "+79619293869",
+            "address": "Москва, Россия"
+        },
+        "sections": {
+            "education": {
+                "name": "Образование",
+                "items": [
+                        {
+                            "school": "Университет Массачусетса в Амхерсте",
+                            "fieldOfStudy": "Программирование",
+                            "bulletPoints": [
+                                "Вторая Специальность - Математика",
+                                "Получатель Премии Канцлера",
+                                "Диплом с Отличием",
+                                "Выпускник Honors Отдела с Отличием в Науке",
+                                "Основной Член Студенческой Организации CICSoft",
+                                "Дополнительные Курсы: Квантовая Информация, Масштабируемые Веб-Системы, Компьютерная и Сетевая Безопасность, Взаимодействие Человека и Компьютера, Машинное Обучение, Обработка Естественного Языка, Математическое Моделирование"]
+                        }
+                    ]
+            },
+            "links": {
+                "name": "Ссылки",
+                "items": [
+                    {
+                        "link": "https://webresume-makar-pronin.onrender.com/",
+                        "description": "Рекомендую Посетить Моё Веб-Резюме"
+                    },
+                    {
+                        "link": "https://github.com/MakarPronin/",
+                        "description": "GitHub"
+                    }
+                ]
+            },
+            "skills": {
+                "name": "Навыки",
+                "items": [
+                    "C, C++, Python, Java, JavaScript, TypeScript, Kotlin, PHP, Bash, PowerShell",
+                    "HTML, CSS, XML, React, Svelte, Express.js, Three.js, Node.js, Passport.js, WebGL",
+                    "Docker, Git, GitHub, VBox, Anaconda, Jupyter, Postman, WireShark",
+                    "SQL, MongoDB",
+                    "Android, Jetpack",
+                    "Matplotlib, Sklearn, Numpy, Pandas",
+                    "Figma, MS Office, Написание Документации, Письменное Общение"
+                ]
+            },
+            "languages": {
+                "name": "Языки",
+                "items": [
+                    "Английский",
+                    "Русский"
+                ]
+            },
+            "projects": {
+                "name": "Проекты",
+                "items": [
+                    {
+                        "name": "QuantumQuestion",
+                        "link": "https://quantumquestion.onrender.com/",
+                        "description": "Интерактивное 3D веб-приложение для объяснения квантовых вычислений."
+                    },
+                    {
+                        "name": "PropagandaDetector",
+                        "link": "https://github.com/MakarPronin/propaganda_detector_code",
+                        "description": "Программа для распознавания пропаганды в тексте."
+                    },
+                    {
+                        "name": "FilterRGB",
+                        "link": "https://github.com/MakarPronin/FilterRGB",
+                        "description": "Android-приложение для фильтрации видео и выделения определённых цветов."
+                    },
+                    {
+                        "name": "GroupFinder",
+                        "link": "https://groupfinder-webapp.onrender.com/",
+                        "description": "Моё первое веб-приложение с аутентификацией и MongoDB."
+                    },
+                    {
+                        "name": "Крестики Нолики",
+                        "link": "https://tic-tac-toe-web-game.onrender.com/",
+                        "description": "Красивое веб-приложение для игры в крестики-нолики."
+                    },
+                    {
+                        "name": "NaukaPlanner",
+                        "link": "https://github.com/MakarPronin/NaukaPlanner",
+                        "description": "Академический календарь на React для планирования учебы."
+                    },
+                    {
+                        "name": "SellThings",
+                        "link": "https://github.com/MakarPronin/SellThings",
+                        "description": "Вебсайт для продажи ненужных вещей с использованием Docker."
+                    },
+                    {
+                        "name": "Все Проекты",
+                        "link": "https://github.com/MakarPronin",
+                        "description": "Кликните, чтобы перейти на мою GitHub страницу."
+                    }
+                ]
+            }
+        }
+    },
+    "en": {
+        "parameters": {
+            "centralSpace": "75",
+            "borderPaddingVertical": "75",
+            "borderPaddingHorizontal": "75",
+            "spaceBetweenSections": "60",
+            "fontFamily": "Nunito",
+            "textLineMargin": "5",
+            "fontSize": "1.2"
+        },
+        "generalInfo": {
+            "name": "Makar Pronin",
+            "email": "makarpronin90@gmail.com",
+            "phone": "+79619293869",
+            "address": "Moscow, Russia"
+        },
+        "sections": {
+            "education": {
+                "name": "Education",
+                "items": [
+                    {
+                        "school": "University of Massachusetts Amherst",
+                        "fieldOfStudy": "Computer Science",
+                        "bulletPoints": [
+                            "Second Major - Mathematics",
+                            "Chancellor's Award Recipient",
+                            "Graduated with Honors",
+                            "Honors College Graduate with Distinction in Science",
+                            "Core Member of Student Organization CICSoft",
+                            "Additional Courses: Quantum Information, Scalable Web Systems, Computer and Network Security, Human-Computer Interaction, Machine Learning, Natural Language Processing, Mathematical Modeling"
+                        ]
+                    }
+                ]
+            },
+            "links": {
+                "name": "Links",
+                "items": [
+                    {
+                        "link": "https://webresume-makar-pronin.onrender.com/",
+                        "description": "I recommend visiting my web resume"
+                    },
+                    {
+                        "link": "https://github.com/MakarPronin/",
+                        "description": "GitHub"
+                    }
+                ]
+            },
+            "skills": {
+                "name": "Skills",
+                "items": [
+                    "C, C++, Python, Java, JavaScript, TypeScript, Kotlin, PHP, Bash, PowerShell",
+                    "HTML, CSS, XML, React, Svelte, Express.js, Three.js, Node.js, Passport.js, WebGL",
+                    "Docker, Git, GitHub, VBox, Anaconda, Jupyter, Postman, WireShark",
+                    "SQL, MongoDB",
+                    "Android, Jetpack",
+                    "Matplotlib, Sklearn, Numpy, Pandas",
+                    "Figma, MS Office, Documentation Writing, Written Communication"
+                ]
+            },
+            "languages": {
+                "name": "Languages",
+                "items": [
+                    "English",
+                    "Russian"
+                ]
+            },
+            "projects": {
+                "name": "Projects",
+                "items": [
+                    {
+                        "name": "QuantumQuestion",
+                        "link": "https://quantumquestion.onrender.com/",
+                        "description": "Interactive 3D web application for explaining quantum computing."
+                    },
+                    {
+                        "name": "PropagandaDetector",
+                        "link": "https://github.com/MakarPronin/propaganda_detector_code",
+                        "description": "Program for recognizing propaganda in text."
+                    },
+                    {
+                        "name": "FilterRGB",
+                        "link": "https://github.com/MakarPronin/FilterRGB",
+                        "description": "Android app for video filtering and highlighting specific colors."
+                    },
+                    {
+                        "name": "GroupFinder",
+                        "link": "https://groupfinder-webapp.onrender.com/",
+                        "description": "My first web application with authentication and MongoDB."
+                    },
+                    {
+                        "name": "Tic Tac Toe",
+                        "link": "https://tic-tac-toe-web-game.onrender.com/",
+                        "description": "Beautiful web application for playing Tic Tac Toe."
+                    },
+                    {
+                        "name": "NaukaPlanner",
+                        "link": "https://github.com/MakarPronin/NaukaPlanner",
+                        "description": "Academic calendar in React for study planning."
+                    },
+                    {
+                        "name": "SellThings",
+                        "link": "https://github.com/MakarPronin/SellThings",
+                        "description": "Website for selling unwanted items using Docker."
+                    },
+                    {
+                        "name": "All Projects",
+                        "link": "https://github.com/MakarPronin",
+                        "description": "Click to go to my GitHub page."
+                    }
+                ]
+            }
+        }
+    }    
+}
