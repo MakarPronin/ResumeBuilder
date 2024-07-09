@@ -48,13 +48,13 @@
             "skills": {
                 "name": "Навыки",
                 "items": [
-                    "C, C++, Python, Java, JavaScript, TypeScript, Kotlin, PHP, Bash, PowerShell",
-                    "HTML, CSS, XML, React, Svelte, Express.js, Three.js, Node.js, Passport.js, WebGL",
-                    "Docker, Git, GitHub, VBox, Anaconda, Jupyter, Postman, WireShark",
-                    "SQL, MongoDB",
-                    "Android, Jetpack",
+                    "C, C++, Python, Java, JavaScript, TypeScript, Kotlin, PHP, HTML, CSS, XML, WebGL, SQL",
+                    "React, Svelte, Docker, Android, Electron, VBox, Jupyter, Postman, WireShark, Figma, MS Office",
+                    "MongoDB, Express.js, Three.js, Node.js, Passport.js, Anaconda, PyTorch, Jetpack",
+                    "Git, GitHub, Развертывание Приложений и Сайтов",
+                    "Bash, PowerShell",
                     "Matplotlib, Sklearn, Numpy, Pandas",
-                    "Figma, MS Office, Написание Документации, Письменное Общение"
+                    "Написание Документации, Письменное Общение, Хорошее и Спокойное Настроение"
                 ]
             },
             "languages": {
@@ -161,13 +161,13 @@
             "skills": {
                 "name": "Skills",
                 "items": [
-                    "C, C++, Python, Java, JavaScript, TypeScript, Kotlin, PHP, Bash, PowerShell",
-                    "HTML, CSS, XML, React, Svelte, Express.js, Three.js, Node.js, Passport.js, WebGL",
-                    "Docker, Git, GitHub, VBox, Anaconda, Jupyter, Postman, WireShark",
-                    "SQL, MongoDB",
-                    "Android, Jetpack",
+                    "C, C++, Python, Java, JavaScript, TypeScript, Kotlin, PHP, HTML, CSS, XML, WebGL, SQL",
+                    "React, Svelte, Docker, Android, Electron, VBox, Jupyter, Postman, WireShark, Figma, MS Office",
+                    "MongoDB, Express.js, Three.js, Node.js, Passport.js, Anaconda, PyTorch, Jetpack",
+                    "Git, GitHub, Deployment",
+                    "Bash, PowerShell",
                     "Matplotlib, Sklearn, Numpy, Pandas",
-                    "Figma, MS Office, Documentation Writing, Written Communication"
+                    "Написание Документации, Письменное Общение, Хорошее и Спокойное Настроение"
                 ]
             },
             "languages": {
