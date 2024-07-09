@@ -1,2 +1,3 @@
 # ResumeBuilder
- Allows users to create beautiful resumes.
+
+Allows users to create beautiful resumes.

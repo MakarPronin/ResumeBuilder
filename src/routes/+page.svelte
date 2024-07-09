@@ -1,6 +1,5 @@
 <script>
-	import Resume from "./components/Resume.svelte";
-
+	import Resume from './components/Resume.svelte';
 </script>
 
-<Resume/>
+<Resume />
